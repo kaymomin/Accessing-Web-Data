@@ -9,12 +9,8 @@ Inside Python, regular expressions are sort of not built into the base language,
 Before you can use regular expression in your program, you must import the library using "import re". <br/>
 You can use "re.search()" to see if a string matches a regular expression. You can use "re.findall()" to extract portion of the string that match your regular expression.
 <br/>
-### Sample Code: Using re.search() like find()
-![ex1](https://user-images.githubusercontent.com/44579545/66267142-1a1de680-e847-11e9-8f5d-833549d11085.JPG)
-<br/>
+### Using re.search() like find()
 [Link to Code](Codes/searchfind.py)
 
-### Sample Code: Using re.search() like startswith()
-![ex2](https://user-images.githubusercontent.com/44579545/66267471-7d5d4800-e84a-11e9-8a49-3e147709a53f.JPG)
-<br/>
+### Using re.search() like startswith()
 [Link to Code](Codes/searchStartswith.py)
