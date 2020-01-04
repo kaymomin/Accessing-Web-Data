@@ -1,4 +1,4 @@
-# ACCESSING WEB DATA USING PYTHON
+# Accessing Web Data
 
 ## Quick Guide: Regular Expressions 
 ![RegexQuick](https://user-images.githubusercontent.com/44579545/66266852-189eef00-e844-11e9-8393-d488140b8812.JPG)
